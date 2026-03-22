@@ -44,6 +44,6 @@ chmod +x ppt
 ./ppt
 ```
 # Divirta-se
-<img src="jokenpo.png" alt="Description" width="100"/>
+<img src="jokenpo.png" alt="Description" width="300"/>
 
 
